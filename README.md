@@ -1,11 +1,11 @@
 # Shopping Cart
 
 功能描述：
-+商品搜尋
-+列表分頁
-+放入購物車
-+購物車數量增減
-+金額計算
++ 商品搜尋
++ 列表分頁
++ 放入購物車
++ 購物車數量增減
++ 金額計算
 
 ![shopping cart screenshot](https://github.com/yuyuchi/ShoppingCart/blob/master/images/demo.png)
 
