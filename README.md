@@ -7,7 +7,7 @@
 +購物車數量增減
 +金額計算
 
-![shopping cart screenshot](https://github.com/yuyuchi/ShoppingCart/images/demo.png)
+![shopping cart screenshot](https://github.com/yuyuchi/ShoppingCart/blob/master/images/demo.png)
 
 ## Live demo
 
